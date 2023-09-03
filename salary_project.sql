@@ -1,3 +1,7 @@
+-- The San Franciso Salaries dataset on Kaggle
+-- Explore San Francisco city employee salary data
+
+create database salary_project;
 use salary_project;
 
 -- 1	Show all columns and rows in the table.
